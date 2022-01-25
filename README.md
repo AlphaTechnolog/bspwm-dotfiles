@@ -26,4 +26,6 @@ cd ~/.bspwm-dotfiles
 cp -r ./.config/* ~/.config
 ```
 
-Then restart the system
+## Misc
+
+![wallpaper](./wallpaper.png)
