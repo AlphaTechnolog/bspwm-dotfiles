@@ -25,7 +25,10 @@ To install you can use this commands
 ```sh
 git clone https://github.com/AlphaTechnolog/bspwm-dotfiles ~/.bspwm-dotfiles
 cd ~/.bspwm-dotfiles
+mkdir -p ~/.config
+mkdir -p ~/.local/share
 cp -r ./.config/* ~/.config
+cp -r ./.local/share/* ~/.local/share
 ```
 
 ## Misc
