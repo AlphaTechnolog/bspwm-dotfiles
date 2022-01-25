@@ -7,7 +7,9 @@
 #  NOTE: This is an example file, you can change it with your stuff
 
 picom -b
-feh --bg-fill ~/Pictures/catppuccin_triangle.png
+
+# wallpaper: you can change this with your real path
+# feh --bg-fill ~/.bspwm-dotfiles/wallpaper.png
 
 # don't remove this please
 sxhkd &
