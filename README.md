@@ -17,6 +17,11 @@ I am using Arch Linux, but I expect you have it, to make all work
 - polybar
 - picom
 - feh
+- fish
+- starship
+- yarn
+- bat
+- exa
 
 ## Installation
 
