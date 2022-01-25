@@ -1,0 +1,48 @@
+background_opacity: 1.0
+colors:
+  bright:
+    black: '0x988BA2'
+    blue: '0x96CDFB'
+    cyan: '0x89DCEB'
+    green: '0xABE9B3'
+    magenta: '0xF5C2E7'
+    red: '0xF28FAD'
+    white: '0xD9E0EE'
+    yellow: '0xFAE3B0'
+  cursor:
+    cursor: '0xF5E0DC'
+    text: '0x1E1D2F'
+  indexed_colors:
+  - color: '0xF8BD96'
+    index: 16
+  - color: '0xF5E0DC'
+    index: 17
+  normal:
+    black: '0x6E6C7E'
+    blue: '0x96CDFB'
+    cyan: '0x89DCEB'
+    green: '0xABE9B3'
+    magenta: '0xF5C2E7'
+    red: '0xF28FAD'
+    white: '0xD9E0EE'
+    yellow: '0xFAE3B0'
+  primary:
+    background: '0x1E1D2F'
+    foreground: '0xD9E0EE'
+cursor:
+  style:
+    shape: Beam
+env:
+  TERM: xterm-256color
+font:
+  bold:
+    family: JetBrains Mono ExtraBold Nerd Font
+  italic:
+    family: JetBrains Mono Medium Nerd Font
+  normal:
+    family: JetBrains Mono Medium Nerd Font
+  size: 12.0
+window:
+  padding:
+    x: 0
+    y: 0
