@@ -28,4 +28,5 @@ cp -r ./.config/* ~/.config
 
 ## Misc
 
+### Wallpaper
 ![wallpaper](./wallpaper.png)
