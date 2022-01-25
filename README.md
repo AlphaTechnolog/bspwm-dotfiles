@@ -15,6 +15,8 @@ I am using Arch Linux, but I expect you have it, to make all work
 - sxhkd
 - bspwm
 - polybar
+- picom
+- feh
 
 ## Installation
 
