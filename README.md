@@ -4,6 +4,12 @@ My Configuration files for my new bspwm setup
 
 ![rice](./.misc/rice.png)
 
+## Note
+
+If you like this configuration, you can give me a star pls :)
+
+You really make me happy if you do it :D
+
 ## Requirements
 
 I am using Arch Linux, but I expect you have it, to make all work
@@ -39,4 +45,17 @@ cp -r ./.local/share/* ~/.local/share
 ## Misc
 
 ### Wallpaper
+
+#### Catppuccin
 ![wallpaper](./wallpaper.png)
+
+#### Tokyonight
+![wallpaper-2](./wallpaper-2.png)
+
+### Gallery
+
+#### Catppuccin
+![rice](./rice.png)
+
+#### Tokyonight
+![rice-2](./rice-2.png)
