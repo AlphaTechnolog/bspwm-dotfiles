@@ -50,12 +50,12 @@ cp -r ./.local/share/* ~/.local/share
 ![wallpaper](./wallpaper.png)
 
 #### Tokyonight
-![wallpaper-2](./wallpaper-2.png)
+![wallpaper-2](./wallpaper-2.jpg)
 
 ### Gallery
 
 #### Catppuccin
-![rice](./rice.png)
+![rice](./.misc/rice.png)
 
 #### Tokyonight
-![rice-2](./rice-2.png)
+![rice-2](./.misc/rice-2.png)
