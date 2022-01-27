@@ -6,6 +6,7 @@
 
 #  NOTE: This is an example file, you can change it with your stuff
 
+xsetroot -cursor_name left_ptr
 picom -b
 
 # wallpaper: you can change this with your real path
