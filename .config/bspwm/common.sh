@@ -16,7 +16,7 @@ setopt border_width 1
 setopt window_gap 12
 
 # borders colors
-BORDER_THEME='catppuccin'
+BORDER_THEME='tokyonight'
 load_border_theme() {
   name=${1}
   if test -f $ROOT/borders-themes/$name.sh; then
